@@ -60,7 +60,7 @@ class DraftListView(LoginRequiredMixin,ListView):
 
 
 #######################################
-## Functions that require a pk match ##
+## Functions that require a pk(primary key :) match ##
 #######################################
 
 @login_required
